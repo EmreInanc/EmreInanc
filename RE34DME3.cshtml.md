@@ -1,11 +1,7 @@
 
 <div >
   <h1> -👩‍💻HEY Merhaba Ben @EmreInanc</h1>
-<pre style=" width: 100%;
-            padding: 20px;
-              white-space: pre-wrap;
-             word-wrap: break-word;
-            box-sizing: border-box; ">
+<pre style="">
 
  <p>--Kendimden bahsetmem gerekirse Ben Bir {Bilişimci && Robotikci-yim}</p>
 
@@ -18,13 +14,14 @@
            ". da Bilişim Okuyor ve Ticimax ta yazılım destek üzerine staj yapıyorum.", int SinifNumarasi=12
           };
    </pre>
-
-    <br />
+<pre>
       ----Robotik{new Yillardir(3){
       Console.WriteLine("First Robotics Competion a Katılıyorum okuluma bağlı robotik takımı olan" +
        "Cyber Griffins 8070 takımında yazılım kapatanı olarak devam ediyorum")
-      };
+      }; 
 
+</pre>
+   
   <pre>
        string FrcWhatIsIt="
       FIRST Robotic Competition (FRC) uluslararası liseler arası robotik yarışmasıdır."
