@@ -10,35 +10,38 @@
  <p>--Kendimden bahsetmem gerekirse Ben Bir {Bilişimci && Robotikci-yim}</p>
 
  
- <pre> ---Iilgili Olduğum 3 Alan Mevcut
-    @override
-    ----Yazilim
-        {
-         string Languages,string Text="Orta Okuldan Beri Merak ve Iilgili Olduğum Bir Alan Aynı Zamanda Lise"+SinifNumarasi+
-         ". da Bilişim Okuyor ve Ticimax ta yazılım destek üzerine staj yapıyorum.", int SinifNumarasi=12
-        } 
- </pre>
+   <pre> ---Iilgili Olduğum 3 Alan Mevcut
+      @override
+      ----Yazilim
+          {
+           string Languages,string Text="Orta Okuldan Beri Merak ve Iilgili Olduğum Bir Alan Aynı Zamanda Lise"+SinifNumarasi+
+           ". da Bilişim Okuyor ve Ticimax ta yazılım destek üzerine staj yapıyorum.", int SinifNumarasi=12
+          };
+   </pre>
 
-  <br />
-    ----Robotik{new Yillardir(3){
-    Console.WriteLine("First Robotics Competion a Katılıyorum okuluma bağlı robotik takımı olan" +
-     "Cyber Griffins 8070 takımında yazılım kapatanı olarak devam ediyorum");
-    } 
-<br />
-    
+    <br />
+      ----Robotik{new Yillardir(3){
+      Console.WriteLine("First Robotics Competion a Katılıyorum okuluma bağlı robotik takımı olan" +
+       "Cyber Griffins 8070 takımında yazılım kapatanı olarak devam ediyorum")
+      };
+
+  <pre>
+       string FrcWhatIsIt="
+      FIRST Robotic Competition (FRC) uluslararası liseler arası robotik yarışmasıdır."
+      +Her yıl, lise öğrencilerin takımlar ve mentorlar, "+
+      "Kick-Off denilen etinlikte açıklanan oyun temasına ve robot kurallarına göre robot yapmaya çalışırlar. ";
+      }
+
+    ----SiberGuvenlik{
+    TryHackMe tryhackme;
+    string="bu alan da vakit buldukça girip öğrenmeye çalışıyorum,"+
+    " try hack me de odalar çözmeye çalışıyorum onun dışında bazen videolar izliyorum"; 
+  } 
+
+</pre>
+
 <pre>
-     string FrcWhatIsIt="
-    FIRST Robotic Competition (FRC) uluslararası liseler arası robotik yarışmasıdır."
-    +Her yıl, lise öğrencilerin takımlar ve mentorlar, "+
-    "Kick-Off denilen etinlikte açıklanan oyun temasına ve robot kurallarına göre robot yapmaya çalışırlar. ";
-  }
-
- <br />
-    ----SiberGuvenlik{TryHackMe tryhackme; string="bu alan da vakit buldukça girip öğrenmeye çalışıyorum,"+
-    " try hack me de odalar çözmeye çalışıyorum onun dışında bazen videolar izliyorum"; }  </pre>
-
-<pre>
-  new Yazılım("ileri düzey:c#,Java,arduiono(c++)
+  new Yazilim("ileri düzey:c#,Java,arduiono(c++)
       orta düzey:html,CSS,SQL,Linux 
         temel düzey:JS,MVC");
 </pre>
@@ -49,13 +52,3 @@
 
 
 </div>
-<!---
-EmreInanc/EmreInanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
