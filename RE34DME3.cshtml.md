@@ -27,13 +27,13 @@
       FIRST Robotic Competition (FRC) uluslararası liseler arası robotik yarışmasıdır."
       +Her yıl, lise öğrencilerin takımlar ve mentorlar, "+
       "Kick-Off denilen etinlikte açıklanan oyun temasına ve robot kurallarına göre robot yapmaya çalışırlar. ";
-      }
+      };
 
     ----SiberGuvenlik{
     TryHackMe tryhackme;
     string="bu alan da vakit buldukça girip öğrenmeye çalışıyorum,"+
     " try hack me de odalar çözmeye çalışıyorum onun dışında bazen videolar izliyorum"; 
-  } 
+  };
 
 </pre>
 
